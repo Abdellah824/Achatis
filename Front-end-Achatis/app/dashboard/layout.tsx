@@ -93,7 +93,7 @@ function DashboardLayoutInner({
             <div className="flex h-16 items-center px-6 border-b">
               <Link href="/dashboard" className="flex items-center gap-2 font-semibold">
                 <Package2 className="h-6 w-6 text-blue-600" />
-                <span className="text-lg">Purchasing Hub</span>
+                <span className="text-lg">Achatis</span>
               </Link>
             </div>
             <nav className="flex-1 px-4 py-6 space-y-2">
@@ -125,7 +125,7 @@ function DashboardLayoutInner({
             <div className="flex h-16 items-center px-6 border-b border-gray-200">
               <Link href="/dashboard" className="flex items-center gap-2 font-semibold">
                 <Package2 className="h-6 w-6 text-blue-600" />
-                <span className="text-lg text-gray-900">Purchasing Hub</span>
+                <span className="text-lg text-gray-900">Achatis</span>
               </Link>
             </div>
             <nav className="flex-1 px-4 py-6 space-y-2">
